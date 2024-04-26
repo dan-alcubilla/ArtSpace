@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+
+    // Art work 1
+    <string name="the_starry_night">The Starry Night</string>
+    <string name="vincent_van_gogh">Vincent van Gogh</string>
+    <string name="artwork1_year">(1889)</string>
+    // Art work 2
+    <string name="the_scream">The Scream</string>
+    <string name="edvard_munch">Edvard Munch</string>
+    <string name="artwork2_year">(1893)</string>
+    // Art work 3
+    <string name="the_mill">The Mill</string>
+    <string name="rembrandt">Rembrandt</string>
+    <string name="artwork3_year">(1645/48)</string>
+    // Art work 4
+    <string name="las_meninas">Las Meninas</string>
+    <string name="diego_velazquez">Diego Velázquez</string>
+    <string name="artwork4_year">(1656)</string>
+
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+</resources>
